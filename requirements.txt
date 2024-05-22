@@ -1,0 +1,6 @@
+streamlit
+fastai
+numpy
+pillow
+scikit-learn
+requests
