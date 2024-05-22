@@ -3,7 +3,7 @@ from fastai.vision.all import load_learner, PILImage
 import os
 
 # Load the Fastai model
-model_path = 'pokemon_classifier.pkl'
+model_path = 'pokenet.pkl'
 learn_inf = load_learner(model_path)
 
 # Define the Streamlit app
