@@ -1,7 +1,3 @@
-Sure! Here's a short, informal, yet informative README for your Pokenet project:
-
----
-
 # Pokenet: Pokémon Classifier 🐱‍👤
 
 Welcome to **Pokenet**! This is a fun little project where we use a deep learning model to classify Pokémon images. It's built using Fastai and Streamlit, making it super easy to use and extend.
