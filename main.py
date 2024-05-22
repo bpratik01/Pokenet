@@ -41,7 +41,7 @@ def main():
         prediction, _, probs = learn_inf.predict(img)
         
         # Display prediction
-        st.success(f"The model predicts this is a {prediction}.")
+        st.success(f"This is a {prediction}.")
         st.write(f"Prediction confidence: {probs.max():.2f}")
 
 if __name__ == "__main__":
